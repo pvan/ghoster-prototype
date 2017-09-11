@@ -12,6 +12,8 @@ Still, it sort of works.
 
 Right-click on the video or the taskbar icon for a menu. (If ghost mode is enabled, only the taskbar icon menu will work since the video will ignore all clicks). 
 
+You can drag a selected url from the chrome address bar into the window to load a new video (similar to creating a shortcut from url dragging). Or copy the url to the clipboard and paste it using the right-click menu or just ctrl+v (if the ghoster window is selected when pasting).
+
 The built-in youtube video controls (volume, tracking) should all work, and left-click anywhere else on the video to drag the window around. Resize by dragging the edges. And you should be able to dock it to the edge of the screen, though I haven't seen what happens with multiple monitors yet. Double-click to full-screen.
 
 ---
