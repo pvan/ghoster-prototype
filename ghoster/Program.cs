@@ -36,13 +36,13 @@ namespace ghoster
             "-hX             \tset height to X (in pixels)" +
             "-top  -t  -aot  \tenable always on top\n" +
             "-ghost  -gm     \tenable ghost mode (can't be clicked)\n" +
-            "-novid  -blank  \tdon't auto-load a video\n" +
-            "-colors  -panels\tshow debug panels\n" +
+            "-novid  -blank  \tdon't load a video on launch\n" +
+            "-colors -panels \tshow debug panels\n" +
             "-errors -js     \tallow js errors to appear\n" +
             "-debug          \tshow panels and allow errors\n" +
             "-help           \tdisplay this text\n\n" +
-            "pass url as any argument to start on that video"+
-            "may need to wrap url in double quotes";
+            "pass a url as any argument to start on that video,"+
+            "may need to wrap the url in double quotes";
 
         
     }
