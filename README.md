@@ -16,6 +16,8 @@ You can drag a selected url from the chrome address bar into the window to load 
 
 The built-in youtube video controls (volume, tracking) should all work, and left-click anywhere else on the video to drag the window around. Resize by dragging the edges. And you should be able to dock it to the edge of the screen, though I haven't seen what happens with multiple monitors yet. Double-click to full-screen.
 
+Oh yeah, you can also left-click the taskbar icon to toggle ghost mode (the icon will change).
+
 ---
 
 Command line launch options:

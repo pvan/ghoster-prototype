@@ -18,8 +18,7 @@ namespace ghoster
 {
     public partial class Form1 : Form
     {
-
-
+        
 
 
 
@@ -978,7 +977,7 @@ namespace ghoster
 
         // ----
 
-        TextPanel overlayText;
+
         class TextPanel : TransparentPanel
         {
             string text = "";
