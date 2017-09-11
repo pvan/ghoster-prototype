@@ -34,9 +34,9 @@ namespace ghoster
             "-oX             \tset opacity to X (0-100)" +
             "-wX             \tset width to X (in pixels)" +
             "-hX             \tset height to X (in pixels)" +
-            "-top  -t  -aot  \talways on top\n" +
-            "-ghost  -gm     \tghost mode (can't be clicked)\n" +
-            "-novid  -blank  \tempty on startup\n" +
+            "-top  -t  -aot  \tenable always on top\n" +
+            "-ghost  -gm     \tenable ghost mode (can't be clicked)\n" +
+            "-novid  -blank  \tdon't auto-load a video\n" +
             "-colors  -panels\tshow debug panels\n" +
             "-errors -js     \tallow js errors to appear\n" +
             "-debug          \tshow panels and allow errors\n" +

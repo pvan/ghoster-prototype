@@ -580,6 +580,9 @@ namespace ghoster
 
 
         // TODO:
+        // [ ] idea for getting time? (from old notes)
+                //ytplayer = document.getElementById("movie_player");
+                //ytplayer.getCurrentTime();
         // [/]double left click maximize (sort of works now)
         // [x]lock aspect ratio
         // [x]starting location and size parameters
